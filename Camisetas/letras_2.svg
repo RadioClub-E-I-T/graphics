@@ -7,41 +7,51 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="letras.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 210 297"
+   inkscape:export-ydpi="500"
+   inkscape:export-xdpi="500"
+   inkscape:export-filename="D:\gitRepos\radio\graphics\Camisetas\EST.png"
+   width="210mm"
    height="297mm"
-   width="210mm">
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="letras_2.svg">
   <defs
      id="defs2">
     <rect
-       id="rect835"
-       height="139.85119"
-       width="168.57738"
+       id="rect881"
+       height="111.50298"
+       width="72.571429"
+       y="182.94048"
+       x="144.76488" />
+    <rect
+       x="17.386905"
        y="39.309524"
-       x="17.386905" />
+       width="190.5"
+       height="223.38393"
+       id="rect835" />
   </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="166"
-     inkscape:window-x="3278"
-     inkscape:window-height="837"
-     inkscape:window-width="1600"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="403.1881"
-     inkscape:cx="348.82936"
-     inkscape:zoom="0.7"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     inkscape:pagecheckerboard="true"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="90.109039"
+     inkscape:cy="485.94088"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -55,29 +65,39 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     inkscape:label="Capa 1">
+     id="layer1">
     <text
-       y="0"
-       x="26.808077"
-       style="font-size:10.5833px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;white-space:pre;shape-inside:url(#rect835);"
+       inkscape:export-ydpi="500"
+       inkscape:export-xdpi="500"
+       xml:space="preserve"
        id="text833"
-       xml:space="preserve"><tspan
-         x="55.191798"
+       style="font-size:10.5833px;line-height:1.25;font-family:Algerian;-inkscape-font-specification:Algerian;white-space:pre;shape-inside:url(#rect835);fill:#ffffff;"
+       x="26.808077"
+       y="0"><tspan
+         x="66.152735"
          y="61.533593"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">EA4RCT
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff">EA4RCT
 </tspan></tspan><tspan
-         x="36.141798"
+         x="47.102735"
          y="93.283593"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">RADIOCLUB
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff">RADIOCLUB
 </tspan></tspan><tspan
-         x="72.505469"
+         x="83.466407"
          y="125.03359"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">E.I.T.
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff">E.I.T.
 </tspan></tspan><tspan
-         x="72.753516"
+         x="83.714454"
          y="156.78359"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">1984</tspan></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff">1984
+</tspan></tspan><tspan
+         x="86.76543"
+         y="188.53359"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:Academy;-inkscape-font-specification:'Academy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff">EST.</tspan></tspan></text>
+    <text
+       style="line-height:1.25;font-family:Algerian;font-size:10.58333333px;-inkscape-font-specification:Algerian;white-space:pre;shape-inside:url(#rect881);"
+       id="text879"
+       xml:space="preserve" />
   </g>
 </svg>
